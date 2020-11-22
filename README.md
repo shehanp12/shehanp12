@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanp12&label=Profile%20views&color=0e75b6&style=flat" alt="shehanp12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehanp12" alt="shehanp12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shehanprasanna5" target="blank"><img src="https://img.shields.io/twitter/follow/shehanprasanna5?logo=twitter&style=for-the-badge" alt="shehanprasanna5" /></a> </p>
 
 - 🔭 I’m currently working on [Dustbin Managment System](https://github.com/shehanp12/Dustbin-Managment-Admin)
 
