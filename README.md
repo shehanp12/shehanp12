@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K . A . Shehan Prasanna</h1>
+<h1 align="center">Hi 👋 I'm Shehan Prasanna</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanp12&label=Profile%20views&color=0e75b6&style=flat" alt="shehanp12" /> </p>
